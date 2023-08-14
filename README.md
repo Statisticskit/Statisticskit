@@ -1,4 +1,4 @@
-# Catherine Barr, Statistician, BSc, [GradStat](https://rss.org.uk/membership/professional-development/gradstat), [AMIMA](https://ima.org.uk/membership/membership-grades/associate-member)
+# Catherine Barr | Statistician | BSc | [GradStat](https://rss.org.uk/membership/professional-development/gradstat) | [AMIMA](https://ima.org.uk/membership/membership-grades/associate-member)
 
 [![LinkedIn](https://github.com/Statisticskit/Statisticskit/blob/main/images/Linked%20In%20circle.jpg)](https://linkedin.com/in/statisticskit)
 
