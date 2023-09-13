@@ -1,4 +1,4 @@
-# Catherine Barr | BSc | [GradStat](https://rss.org.uk/membership/professional-development/gradstat) | [AMIMA](https://ima.org.uk/membership/membership-grades/associate-member)
+# Catherine Barr | BSc | [GradStat](https://github.com/Statisticskit/Certs/blob/main/Catherine%20Barr-%20GradStat%20Certificate.pdf) | [AMIMA](https://github.com/Statisticskit/Certs/blob/main/Catherine%20Barr%20-%20AMIMA.pdf)
 
 [![LinkedIn](https://github.com/Statisticskit/Statisticskit/blob/main/images/Linked%20In%20circle.jpg)](https://linkedin.com/in/statisticskit)
 
